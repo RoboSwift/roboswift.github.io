@@ -7,16 +7,23 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>Released under the MIT license&lt;br&gt;Powered by [Hugo](//gohugo.io/) with the [Type Theme](//github.com/digitalcraftsman/hugo-type-theme)</copyright>
-    <lastBuildDate>Thu, 17 Sep 2015 13:47:08 +0200</lastBuildDate>
+    <lastBuildDate>Fri, 16 Dec 2016 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://roboswift.io/post/index.xml" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>First post</title>
-      <link>http://roboswift.io/post/go-is-for-lovers/</link>
-      <pubDate>Thu, 17 Sep 2015 13:47:08 +0200</pubDate>
+      <title>Welcome</title>
+      <link>http://roboswift.io/post/welcome/</link>
+      <pubDate>Fri, 16 Dec 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://roboswift.io/post/go-is-for-lovers/</guid>
-      <description></description>
+      <guid>http://roboswift.io/post/welcome/</guid>
+      <description>&lt;p&gt;Welcome to &lt;strong&gt;RoboSwift&lt;/strong&gt;!&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://swift.org/&#34;&gt;Swift&lt;/a&gt; is a very promising language that many hope will replace other scripting languages like Python or Ruby. A year ago the language was made open source. Since then it has been ported to many different platforms, and there is hope that many people will learn it as a first language to build anything they can think of.&lt;/p&gt;
+
+&lt;p&gt;In this site we will explore the language through small projects in the field of robotics, automation, general DIY and electronics. &lt;a href=&#34;https://en.wikipedia.org/wiki/Physical_computing&#34;&gt;Physical computing&lt;/a&gt; is a great way to learn and explore programming and engineering. We&amp;rsquo;ll build small DIY projects that any maker can attempt at home, with only two requirements: Has to be fun, and it needs to use Swift as much as possible.&lt;/p&gt;
+
+&lt;p&gt;Updates will be coming soon!&lt;/p&gt;
+</description>
     </item>
     
   </channel>
